@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Criptografia.web", "Criptografia.web\Criptografia.web.csproj", "{102F60BF-A37D-415E-90DA-9A389D4A2342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102F60BF-A37D-415E-90DA-9A389D4A2342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102F60BF-A37D-415E-90DA-9A389D4A2342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102F60BF-A37D-415E-90DA-9A389D4A2342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102F60BF-A37D-415E-90DA-9A389D4A2342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C9B9841-8F31-4C34-9DA7-C80AEB7C88AB}
+	EndGlobalSection
+EndGlobal
